@@ -1,0 +1,21 @@
+local o = vim.opt
+
+o.mouse = 'a'
+o.nu = true
+o.rnu = true
+o.tabstop = 2
+o.softtabstop = 2
+o.shiftwidth = 2
+o.shiftround = true
+o.expandtab = true
+o.smarttab = true
+o.smartindent = true
+o.autoindent = true
+o.termguicolors = true
+o.cursorline = true
+o.scl = 'yes'
+o.wrap = false
+o.splitright = true
+o.splitbelow = true
+o.showcmd = true
+o.showmode = false
